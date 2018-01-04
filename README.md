@@ -1,6 +1,10 @@
 # New Site Template
 
-[TODO. There will be project description]
+Make the site offline. Move all dependencies to the repository.
+
+# How to
+
+I copied all the dependent files into the repository and fixed the references to the transferred files. That the site could work offline.
 
 # Project Goals
 
